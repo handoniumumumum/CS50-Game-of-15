@@ -145,8 +145,8 @@ void init(void)
     
     board[d-1][d-1] = 0;
     
-    // Make 1000 random moves to randomize the board.
-    for(int i=0;i<5;i++)
+    // Make 1500 random moves to randomize the board.
+    for(int i=0;i<1500;i++)
     {
         randomizer();
     }
