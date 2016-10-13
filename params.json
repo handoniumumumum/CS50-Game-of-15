@@ -1,0 +1,6 @@
+{
+  "name": "CS50-Game-Of-15",
+  "tagline": "Game of 15 as assigned by CS50x. ",
+  "body": "# CS50-Game-of-15\r\nThis is a playable Game of 15 made in C as assigned by CS50x. You can play a game of any size from 3x3 to 9x9.\r\n\r\n##Instructions\r\nRun this game with an argument specifying the dimension of the grid, from 3 for 3x3 to 9 for 9x9.\r\n\r\n##To-Do\r\nI'm working on a God mode which will solve the puzzle, per the hacker version of the CS50x problem set. That code is commented out. I am not very good at Game-of-15, so visualizing the pathfinding algorithm has been difficult.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
