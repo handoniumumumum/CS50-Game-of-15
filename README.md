@@ -1,4 +1,8 @@
 # CS50-Game-of-15
-Working Game of 15 as assigned by CS50x. You can play  any size from a game of 8 to a game of 80 by specifying "d" when you run the application, with d * d being the size of the game grid.
+This is a playable Game of 15 made in C as assigned by CS50x. You can play a game of any size from 3x3 to 9x9.
 
-Working on implementation of God mode per the hacker version of the problem set. That code is commented out.
+##Instructions
+Run this game with an argument specifying the dimension of the grid, from 3 for 3x3 to 9 for 9x9.
+
+##To-Do
+I'm working on a God mode which will solve the puzzle, per the hacker version of the CS50x problem set. That code is commented out. I am not very good at Game-of-15, so visualizing the pathfinding algorithm has been difficult.
